@@ -58,7 +58,38 @@ https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
 
 ## 📁 Estrutura do Projeto
 
-O repositório está organizado por aulas, seguindo a sequência do curso e registrando os principais conceitos estudados em cada etapa.
+## 📁 Estrutura do Projeto
+
+```text
+curso-csharp/
+│
+├── Aula 01 - Curso C#
+├── Aula 02 - Primeiro programa no padrão C#
+│   └── CursoCSharp.Aula02.csproj
+├── Aula 03 - Variáveis
+│   └── CursoCSharp.Aula03.csproj
+├── Aula 04 - Escopo de Variáveis
+│   └── CursoCSharp.Aula04.csproj
+├── Aula 05 - Operadores e Operações
+│   └── CursoCSharp.Aula05.csproj
+├── Aula 06 - Formatando a saída no console
+│   └── CursoCSharp.Aula06.csproj
+├── Aula 07 - Constantes em C#
+│   └── CursoCSharp.Aula07.csproj
+├── Aula 08 - Lendo valores do teclado
+│   └── CursoCSharp.Aula08.csproj
+│
+├── curso-csharp.sln
+├── .gitignore
+├── LICENSE
+└── README.md
+
+
+```md
+## 📌 Status
+
+📖 Repositório em constante atualização conforme avanço no curso.
+
 
 
 
