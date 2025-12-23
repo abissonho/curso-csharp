@@ -62,22 +62,38 @@ https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi
 curso-csharp/
 │
 ├── Aula 01 - Curso C#
+│   └── (introdução e primeiros conceitos)
+│
 ├── Aula 02 - Primeiro programa no padrão C#
+│   ├── Program.cs
 │   └── CursoCSharp.Aula02.csproj
+│
 ├── Aula 03 - Variáveis
+│   ├── Program.cs
 │   └── CursoCSharp.Aula03.csproj
+│
 ├── Aula 04 - Escopo de Variáveis
+│   ├── Program.cs
 │   └── CursoCSharp.Aula04.csproj
+│
 ├── Aula 05 - Operadores e Operações
+│   ├── Program.cs
 │   └── CursoCSharp.Aula05.csproj
+│
 ├── Aula 06 - Formatando a saída no console
+│   ├── Program.cs
 │   └── CursoCSharp.Aula06.csproj
+│
 ├── Aula 07 - Constantes em C#
+│   ├── Program.cs
 │   └── CursoCSharp.Aula07.csproj
+│
 ├── Aula 08 - Lendo valores do teclado
+│   ├── Program.cs
 │   └── CursoCSharp.Aula08.csproj
 │
 ├── curso-csharp.sln
 ├── .gitignore
 ├── LICENSE
 └── README.md
+
