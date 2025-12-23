@@ -81,13 +81,3 @@ curso-csharp/
 ├── .gitignore
 ├── LICENSE
 └── README.md
-
-
-```md
-## 📌 Status
-
-📖 Repositório em constante atualização conforme avanço no curso.
-
-
-
-
