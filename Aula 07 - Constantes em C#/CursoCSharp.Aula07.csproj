@@ -5,6 +5,9 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <AssemblyName>CursoCSharp.Aula07</AssemblyName>
+    <RootNamespace>CursoCSharp.Aula07</RootNamespace>
   </PropertyGroup>
 
 </Project>

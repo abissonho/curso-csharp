@@ -9,7 +9,7 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = aula04
+build_property.RootNamespace = <CursoCSharp class="Aula04"></CursoCSharp>
 build_property.ProjectDir = C:\Users\alexb\Documents\estudos\curso-csharp\Aula 04 - Escopo de Variaveis\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

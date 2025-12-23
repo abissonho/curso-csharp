@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 06 - Formatando a saida no console\\aula06.csproj",
-      "projectName": "aula06",
-      "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 06 - Formatando a saida no console\\aula06.csproj",
+      "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 06 - Formatando a saida no console\\CursoCSharp.Aula06.csproj",
+      "projectName": "CursoCSharp.Aula06",
+      "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 06 - Formatando a saida no console\\CursoCSharp.Aula06.csproj",
       "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 06 - Formatando a saida no console\\obj\\",
       "projectStyle": "PackageReference",

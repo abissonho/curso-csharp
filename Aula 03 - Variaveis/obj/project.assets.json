@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 03 - Variaveis\\aula03.csproj",
-      "projectName": "aula03",
-      "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 03 - Variaveis\\aula03.csproj",
+      "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 03 - Variaveis\\CursoCSharp.Aula03.csproj",
+      "projectName": "CursoCSharp.Aula03",
+      "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 03 - Variaveis\\CursoCSharp.Aula03.csproj",
       "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 03 - Variaveis\\obj\\",
       "projectStyle": "PackageReference",

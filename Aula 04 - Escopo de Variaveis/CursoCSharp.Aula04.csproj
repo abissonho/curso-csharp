@@ -1,6 +1,9 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <AssemblyName>CursoCSharp.Aula04</AssemblyName>
+    <RootNamespace><CursoCSharp class="Aula04"></CursoCSharp></RootNamespace>
+
     <OutputType>Exe</OutputType>
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

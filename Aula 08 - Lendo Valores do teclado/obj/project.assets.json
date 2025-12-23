@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 08 - Lendo Valores do teclado\\Aula 08 - Lendo Valores do teclado.csproj",
-      "projectName": "Aula 08 - Lendo Valores do teclado",
-      "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 08 - Lendo Valores do teclado\\Aula 08 - Lendo Valores do teclado.csproj",
+      "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 08 - Lendo Valores do teclado\\CursoCSharp.Aula08.csproj",
+      "projectName": "CursoCSharp.Aula08",
+      "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 08 - Lendo Valores do teclado\\CursoCSharp.Aula08.csproj",
       "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 08 - Lendo Valores do teclado\\obj\\",
       "projectStyle": "PackageReference",
