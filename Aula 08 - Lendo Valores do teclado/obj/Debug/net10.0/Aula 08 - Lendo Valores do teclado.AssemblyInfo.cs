@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula 08 - Lendo Valores do teclado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15ba96565db155e08b5b2d7560d97056c662ffac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3761647b744b3b1ed0308da94f081f8679e44bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula 08 - Lendo Valores do teclado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula 08 - Lendo Valores do teclado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

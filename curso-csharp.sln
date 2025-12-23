@@ -3,77 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 02 - Primeio programa no padrao c# -", "Aula 02 - Primeio programa no padrao c# -", "{AD37576E-FAC3-5B74-6DC5-FFA4EBBA23BD}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 03 - Variaveis", "Aula 03 - Variaveis", "{87BD1E04-91EA-3017-A8D3-57EA50239D2A}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 04 - Escopo de Variaveis", "Aula 04 - Escopo de Variaveis", "{CC59CD3F-6BEE-F03E-9D87-5045D2A8398F}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 05 - Operadores e Operaçoes", "Aula 05 - Operadores e Operaçoes", "{594AFA2F-AE4A-35B0-BC5B-AA7C19DE0079}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 06 - Formatando a saida no console", "Aula 06 - Formatando a saida no console", "{DA5A7CBA-3A3D-1486-3C54-602B05B1FC7F}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aula 07 - Constantes em C#", "Aula 07 - Constantes em C#", "{F8B61A67-C77C-3DF3-E933-3D50BCF420B4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula 08 - Lendo Valores do teclado", "Aula 08 - Lendo Valores do teclado\Aula 08 - Lendo Valores do teclado.csproj", "{EFF4E884-D700-F54E-6073-B6B3B1B4BED3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula02", "Aula 02 - Primeio programa no padrao c# -\aula02.csproj", "{1C293788-6F41-9912-97C3-62BB03CEBE2C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula03", "Aula 03 - Variaveis\aula03.csproj", "{1E4DF546-2C59-60E4-3F98-1C28F484D287}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula04", "Aula 04 - Escopo de Variaveis\aula04.csproj", "{5545DF7C-8D5D-758E-B74B-E167BA74C0E3}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula05", "Aula 05 - Operadores e Operaçoes\aula05.csproj", "{14133964-AEB1-0311-6B45-7C6370116D82}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula06", "Aula 06 - Formatando a saida no console\aula06.csproj", "{E4C4DA85-3290-B597-236E-5A23FB3849EF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula07", "Aula 07 - Constantes em C#\aula07.csproj", "{9FB9D281-E232-5FB7-23CD-6D9E74E85486}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFF4E884-D700-F54E-6073-B6B3B1B4BED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFF4E884-D700-F54E-6073-B6B3B1B4BED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFF4E884-D700-F54E-6073-B6B3B1B4BED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFF4E884-D700-F54E-6073-B6B3B1B4BED3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1C293788-6F41-9912-97C3-62BB03CEBE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1C293788-6F41-9912-97C3-62BB03CEBE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1C293788-6F41-9912-97C3-62BB03CEBE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1C293788-6F41-9912-97C3-62BB03CEBE2C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1E4DF546-2C59-60E4-3F98-1C28F484D287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1E4DF546-2C59-60E4-3F98-1C28F484D287}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1E4DF546-2C59-60E4-3F98-1C28F484D287}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1E4DF546-2C59-60E4-3F98-1C28F484D287}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5545DF7C-8D5D-758E-B74B-E167BA74C0E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5545DF7C-8D5D-758E-B74B-E167BA74C0E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5545DF7C-8D5D-758E-B74B-E167BA74C0E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5545DF7C-8D5D-758E-B74B-E167BA74C0E3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{14133964-AEB1-0311-6B45-7C6370116D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{14133964-AEB1-0311-6B45-7C6370116D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{14133964-AEB1-0311-6B45-7C6370116D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{14133964-AEB1-0311-6B45-7C6370116D82}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E4C4DA85-3290-B597-236E-5A23FB3849EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E4C4DA85-3290-B597-236E-5A23FB3849EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E4C4DA85-3290-B597-236E-5A23FB3849EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E4C4DA85-3290-B597-236E-5A23FB3849EF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9FB9D281-E232-5FB7-23CD-6D9E74E85486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9FB9D281-E232-5FB7-23CD-6D9E74E85486}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9FB9D281-E232-5FB7-23CD-6D9E74E85486}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9FB9D281-E232-5FB7-23CD-6D9E74E85486}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{1C293788-6F41-9912-97C3-62BB03CEBE2C} = {AD37576E-FAC3-5B74-6DC5-FFA4EBBA23BD}
-		{1E4DF546-2C59-60E4-3F98-1C28F484D287} = {87BD1E04-91EA-3017-A8D3-57EA50239D2A}
-		{5545DF7C-8D5D-758E-B74B-E167BA74C0E3} = {CC59CD3F-6BEE-F03E-9D87-5045D2A8398F}
-		{14133964-AEB1-0311-6B45-7C6370116D82} = {594AFA2F-AE4A-35B0-BC5B-AA7C19DE0079}
-		{E4C4DA85-3290-B597-236E-5A23FB3849EF} = {DA5A7CBA-3A3D-1486-3C54-602B05B1FC7F}
-		{9FB9D281-E232-5FB7-23CD-6D9E74E85486} = {F8B61A67-C77C-3DF3-E933-3D50BCF420B4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C6CB3888-E024-4996-BCC1-8737519F1A33}
