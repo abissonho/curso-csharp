@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula06\\aula06.csproj",
+      "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 06 - Formatando a saida no console\\aula06.csproj",
       "projectName": "aula06",
-      "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula06\\aula06.csproj",
+      "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 06 - Formatando a saida no console\\aula06.csproj",
       "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula06\\obj\\",
+      "outputPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 06 - Formatando a saida no console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexb\\AppData\\Roaming\\NuGet\\NuGet.Config"

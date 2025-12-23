@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula02\\aula02.csproj": {}
+    "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 02 - Primeio programa no padrao c# -\\aula02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula02\\aula02.csproj": {
+    "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 02 - Primeio programa no padrao c# -\\aula02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula02\\aula02.csproj",
+        "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 02 - Primeio programa no padrao c# -\\aula02.csproj",
         "projectName": "aula02",
-        "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula02\\aula02.csproj",
+        "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 02 - Primeio programa no padrao c# -\\aula02.csproj",
         "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula02\\obj\\",
+        "outputPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 02 - Primeio programa no padrao c# -\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexb\\AppData\\Roaming\\NuGet\\NuGet.Config"

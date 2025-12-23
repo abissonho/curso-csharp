@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula07\\aula07.csproj": {}
+    "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 07 - Constantes em C#\\aula07.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula07\\aula07.csproj": {
+    "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 07 - Constantes em C#\\aula07.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula07\\aula07.csproj",
+        "projectUniqueName": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 07 - Constantes em C#\\aula07.csproj",
         "projectName": "aula07",
-        "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula07\\aula07.csproj",
+        "projectPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 07 - Constantes em C#\\aula07.csproj",
         "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\aula07\\obj\\",
+        "outputPath": "C:\\Users\\alexb\\Documents\\estudos\\curso-csharp\\Aula 07 - Constantes em C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexb\\AppData\\Roaming\\NuGet\\NuGet.Config"
